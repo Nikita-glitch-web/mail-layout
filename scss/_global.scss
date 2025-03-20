@@ -1,0 +1,16 @@
+body {
+  font-family: $font-main;
+  color: $text-color;
+  background-color: $background-color;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.email-container {
+  width: 600px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+}
